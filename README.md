@@ -1,6 +1,8 @@
 ### Hi there 👋 Elywin here....
 
-**Full-stack Developer || A life-long student of society seeking a fresh challenge for growth in the realm of technology.**
+**A life-long student of society seeking a fresh challenge for growth in the realm of technology.**
+
+## [CLICK ME](https://elywin.github.io/)
 <!--
 **elywin/Elywin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +19,9 @@ Here are some ideas to get you started:
 -->
 
 ## How it's going
-![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=elywin&amp;show_icons=true&amp;theme=radical) &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elywin&langs_count=8&layout=compact&theme=radical)
+![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=elywin&amp;show_icons=true&amp;theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elywin&langs_count=8&layout=compact&theme=radical)
 
 ## Tools, Technologies, Stack
 

@@ -2,7 +2,7 @@
 
 **A life-long student of society seeking a fresh challenge for growth in the realm of technology.**
 
-## [CLICK ME](https://elywin.github.io/)
+**[CLICK ME](https://elywin.github.io/)**
 <!--
 **elywin/Elywin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

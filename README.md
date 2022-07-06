@@ -19,9 +19,14 @@ Here are some ideas to get you started:
 -->
 
 ## How it's going
-![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=elywin&amp;show_icons=true&amp;theme=radical)
+![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=elywin&amp;show_icons=true&amp;theme=radical) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elywin&" alt="elywin" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elywin&langs_count=8&layout=compact&theme=radical)
+
+
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elywin&theme=github" /></p>
+
+
 
 ## Tools, Technologies, Stack
 
